@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello">Hello World!</string>
+
+    <string name="dialog.title.main">This is a dialog with some simple text...</string>
+    <string name="dialog.button.ok">Ok</string>
+    <string name="dialog.button.cancel">Cancel</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae cupiditate debitis doloribus esse id natus optio pariatur perspiciatis, possimus provident quae sequi similique, vero? Adipisci necessitatibus temporibus veniam! Ab, et!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
